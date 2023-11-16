@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/mipmap-xxxhdpi_admin_icon.png.flat",
+        "source": "com.example.services_novigrad.app-main-40:/mipmap-xxxhdpi/admin_icon.png"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.services_novigrad.app-main-40:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/layout_activity_services_page.xml.flat",
+        "source": "com.example.services_novigrad.app-main-40:/layout/activity_services_page.xml"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.services_novigrad.app-main-40:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/mipmap-mdpi_admin_icon.png.flat",
+        "source": "com.example.services_novigrad.app-main-40:/mipmap-mdpi/admin_icon.png"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.services_novigrad.app-main-40:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/layout_activity_service_list.xml.flat",
+        "source": "com.example.services_novigrad.app-main-40:/layout/activity_service_list.xml"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/layout_activity_main.xml.flat",
+        "source": "com.example.services_novigrad.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.services_novigrad.app-main-40:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.services_novigrad.app-main-40:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/drawable_baseline_add.xml.flat",
+        "source": "com.example.services_novigrad.app-main-40:/drawable/baseline_add.xml"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/layout_activity_welcome_page.xml.flat",
+        "source": "com.example.services_novigrad.app-main-40:/layout/activity_welcome_page.xml"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/layout_activity_add_services_page.xml.flat",
+        "source": "com.example.services_novigrad.app-main-40:/layout/activity_add_services_page.xml"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.services_novigrad.app-main-40:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/mipmap-xhdpi_admin_icon.png.flat",
+        "source": "com.example.services_novigrad.app-main-40:/mipmap-xhdpi/admin_icon.png"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.services_novigrad.app-main-40:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/layout_activity_sign_up.xml.flat",
+        "source": "com.example.services_novigrad.app-main-40:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.services_novigrad.app-main-40:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.services_novigrad.app-main-40:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/xml_backup_rules.xml.flat",
+        "source": "com.example.services_novigrad.app-main-40:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.services_novigrad.app-main-40:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/drawable_baseline_close.xml.flat",
+        "source": "com.example.services_novigrad.app-main-40:/drawable/baseline_close.xml"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/layout_activity_admin_page.xml.flat",
+        "source": "com.example.services_novigrad.app-main-40:/layout/activity_admin_page.xml"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/drawable_baseline_save.xml.flat",
+        "source": "com.example.services_novigrad.app-main-40:/drawable/baseline_save.xml"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/mipmap-xxhdpi_admin_icon.png.flat",
+        "source": "com.example.services_novigrad.app-main-40:/mipmap-xxhdpi/admin_icon.png"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/mipmap-hdpi_admin_icon.png.flat",
+        "source": "com.example.services_novigrad.app-main-40:/mipmap-hdpi/admin_icon.png"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.services_novigrad.app-main-40:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.services_novigrad.app-main-40:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.services_novigrad.app-main-40:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.services_novigrad.app-main-40:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.services_novigrad.app-main-40:/mipmap-mdpi/ic_launcher.webp"
+    }
+]
